@@ -1,0 +1,19 @@
+{
+    "links": {
+        "home": false,
+        "about": "http://epijim.uk/about/",
+        "issues": true,
+        "custom": {
+            "My website": "http://epijim.uk"
+        },
+        "sharing": {
+            "google": false,
+            "facebook": "https://www.facebook.com/EpiJim",
+            "twitter": false
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "paperSize": "a4"
+    }
+}
